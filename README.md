@@ -29,7 +29,7 @@ to complete the installation from the command line.
 
 ## License ##
 
-2023 Your Name <you@example.com>
+2023 Irene <fengjw@connect.hku.hk>
 
 This program is free software: you can redistribute it and/or modify it under
 the terms of the GNU General Public License as published by the Free Software
